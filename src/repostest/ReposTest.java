@@ -7,8 +7,6 @@ public class ReposTest {
         
         System.out.println("Hello");
         
-        System.out.println("hellllooo haaallo");
-        
     }
     
 }
